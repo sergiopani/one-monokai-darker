@@ -9,6 +9,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "icons/pani.png",
   "contributes": {
     "themes": [
       {
@@ -17,5 +18,9 @@
         "path": "./themes/Pani-Theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sergiopani/pani-theme.git"
   }
 }
