@@ -1,0 +1,21 @@
+{
+  "name": "pani-theme",
+  "displayName": "Pani-Theme",
+  "description": "A monokai based theme, but simply cooler",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pani-Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pani-Theme-color-theme.json"
+      }
+    ]
+  }
+}
