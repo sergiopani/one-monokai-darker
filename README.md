@@ -1,6 +1,6 @@
-# PANI-THEME
+# One Monokai Darker
 
-## Monokai PANI-THEME
+## One Monokai Darker
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
@@ -9,7 +9,7 @@ You can author your README using Visual Studio Code. Here are some useful editor
 press `ctl/command + p` to launch quick open then run
 
 ```
-ext install pani-theme
+ext install one-monokai-darker
 ```
 
 - cmd + P in Visual Studio
