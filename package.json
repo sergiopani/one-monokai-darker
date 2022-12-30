@@ -1,20 +1,21 @@
 {
-  "id": "pani-theme",
-  "name": "pani-theme",
-  "displayName": "Pani-Theme",
+  "id": "OneMonokaiDarker",
+  "name": "onemonokaidarker",
+  "displayName": "One Monokai Darker",
   "description": "A monokai based theme, but simply cooler",
   "version": "0.0.1",
+  "publisher": "OneMonokaiDarker",
   "engines": {
     "vscode": "^1.72.0"
   },
   "categories": [
     "Themes"
   ],
-  "icon": "icons/pani.png",
+  "icon": "icons/OneMonokaDark.png",
   "contributes": {
     "themes": [
       {
-        "label": "Pani-Theme",
+        "label": "One Monokai Darker",
         "uiTheme": "vs-dark",
         "path": "./themes/Pani-Theme-color-theme.json"
       }
