@@ -1,0 +1,33 @@
+{
+    "manifestVersion": 1,
+    "id": "One Monokai Darker",
+    "version": "0.1.0",
+    "name": "pani-theme",
+    "publisher": "Sergio Paniagua",
+    "description": "A fork of one monokai, but better and with constant updates.",
+    "targets": [
+        {
+            "id": "Microsoft.VisualStudio.Services"
+        }
+    ],
+    "categories": [
+        "Azure Repos"
+    ],
+    "icons": {
+        "default": "icons/pani.png"
+    },
+    "contributions": [
+        {
+            "id": "showCommits",
+            "type": "ms.vss-web.action",
+            "description": "Adds a menu action from builds grid to show associated items.",
+            "targets": [
+                "ms.vss-build-web.completed-build-menu"
+            ],
+            "properties": {
+                "title": "View associated items",
+                "uri": "launch.html"
+            }
+        }
+    ]
+}
