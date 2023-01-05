@@ -3,7 +3,7 @@
   "name": "onemonokaidarker",
   "displayName": "One Monokai Darker",
   "description": "A monokai based theme, but simply cooler",
-  "version": "0.0.1",
+  "version": "0.3.0",
   "publisher": "OneMonokaiDarker",
   "engines": {
     "vscode": "^1.72.0"
